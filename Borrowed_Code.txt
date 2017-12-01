@@ -1,0 +1,2 @@
+We have borrowed one file from the Deep Learning MOOC on Coursera. The file name is tf_utils.py. The function 'random_mini_batches()', line 25-65, is used in our main code. 
+Source :https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
